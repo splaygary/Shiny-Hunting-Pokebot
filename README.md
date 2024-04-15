@@ -18,9 +18,6 @@ The bot is frame perfect and can technically cheat by reading data form any poin
 - MacOS
 - Linux, tested and confirmed working on the following distros:
   - Ubuntu 23.04, 23.10
-  - Debian 12
-  - Pop!_OS 22.04 LTS
-  - Arch Linux
   
 ## Requirements
 ### Windows
