@@ -51,6 +51,9 @@ This bot is still in development, as such, functionality is subject to change - 
 - Double click `pokebot.py` or run `python pokebot.py` in a terminal > type a profile **name** > click **Load Existing Save**
 - Open the save state file you just saved
 - A new bot profile will be created in the `./profiles/` folder, and launched
+**Load Existing Save**
+- Open the save state file you just saved
+- A new bot profile will be created in the `./profiles/` folder, and launched
   
 # Credits
 
