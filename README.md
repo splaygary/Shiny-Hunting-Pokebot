@@ -1,0 +1,2 @@
+# Shiny Hunting PokeBot
+ 
