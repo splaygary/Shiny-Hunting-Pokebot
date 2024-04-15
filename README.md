@@ -6,7 +6,7 @@ Initially created to complete a Shiny Living Dex. The plans for this bot are to 
 
 The intent of this bot is not to cheat for shinies but to transfer the generation 3 Pokemon games into a somewhat idel game, to help ease the pain that is hunting in these specific set of games. 
 
-The bot is frame perfect and can technically cheat by reading data form any point in memory and manipulate RNG. By default, it will attempt to perform actions as if a human were playing to make the gameplay as representative as possible. For ex:
+The bot is frame perfect and can technically cheat by reading data form any point in memory and manipulate RNG. By default, it will attempt to perform actions as if a human were playing to make the gameplay as representative as possible. For example:
 - Starter Pokemon are generated just 1 frame aftger confirming the starter selection, the bot will wait until the battle begins, and the starter Pokemon sprite is visible before soft resetting.
 - It is possible to peek inside un-hatched Pokemon eggs to view stats and their shininess as soon as they are received from the Daycare man. The bot instead waits until the eggs are fully hatched before checking and logging them.
   
